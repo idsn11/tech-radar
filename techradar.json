@@ -467,5 +467,12 @@
     "quadrant": "Tools",
     "isNew": "FALSE",
     "description": "Apache Maven is our main build tool for backend"
+  },
+  {
+    "name": "Command Patterns",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Command Patterns"
   }
 ]
